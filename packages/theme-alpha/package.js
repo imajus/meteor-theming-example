@@ -8,7 +8,7 @@ Package.describe({
 
 Package.registerBuildPlugin({
   name: 'theme-one-minifier',
-  use: ['ecmascript', 'theming'],
+  use: ['ecmascript', 'plugin'],
   sources: ['theme-alpha.js']
 });
 

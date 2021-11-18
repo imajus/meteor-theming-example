@@ -1,3 +1,7 @@
+global.Theme = {
+  color: '#ff0000', // red
+};
+
 class CssMinifier {
 
   processFilesForBundle(files, options) {

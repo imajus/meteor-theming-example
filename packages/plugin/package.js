@@ -11,7 +11,6 @@ Package.registerBuildPlugin({
   use: [
     'ecmascript',
     'minifier-css',
-    'theming'
   ],
   sources: ['minifier.js']
 });
